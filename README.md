@@ -1,1 +1,1 @@
-# Fair-Rations-ALGO
+# Fair-Rations-ALGO.This program ensures every citizen has an even number of bread loaves by giving 2 loaves at a time to consecutive citizens whenever a person has an odd number. It counts the total loaves given and returns that number, or "NO" if it’s impossible to make all counts even.
